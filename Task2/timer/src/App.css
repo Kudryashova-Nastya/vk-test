@@ -1,0 +1,18 @@
+.timer-body {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+}
+
+.btn-group:nth-child(1) {
+  margin-right: 15px;
+}
+
+.timer {
+  font-size: calc(30px + 2vmin);
+  margin-bottom: 15px;
+}
